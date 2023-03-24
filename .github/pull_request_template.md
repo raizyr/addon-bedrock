@@ -4,5 +4,8 @@
 # Describe your changes
 
 <details>
-  Be verbose!
+<!-- do stuff -->
+```hcl
+  <!-- Be verbose! -->
+```
 </details>
