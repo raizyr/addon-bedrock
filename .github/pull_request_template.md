@@ -3,4 +3,6 @@
 
 # Describe your changes
 
-< Be verbose! >
+<details>
+  Be verbose!
+</details>
